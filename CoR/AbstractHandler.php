@@ -2,8 +2,8 @@
 
 namespace fw_micro\pattern\CoR;
 
-use fw\pattern\BaseObject;
-use fw\pattern\Register\Register;
+use fw_micro\pattern\BaseObject;
+use fw_micro\pattern\Register\Register;
 use Psr\Log\LoggerInterface;
 
 /**
