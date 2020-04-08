@@ -1,6 +1,6 @@
 <?php
 
-namespace fw\pattern\CoR;
+namespace fw_micro\pattern\CoR;
 
 use fw\pattern\BaseObject;
 use fw\pattern\Register\Register;

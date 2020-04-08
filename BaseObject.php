@@ -1,6 +1,6 @@
 <?php
 
-namespace fw\pattern;
+namespace fw_micro\pattern;
 
 /**
  * Class BaseObject

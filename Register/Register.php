@@ -1,6 +1,6 @@
 <?php
 
-namespace fw\pattern\Register;
+namespace fw_micro\pattern\Register;
 
 use Medoo\Medoo;
 use Psr\Log\LoggerInterface;

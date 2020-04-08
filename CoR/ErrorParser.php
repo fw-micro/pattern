@@ -1,7 +1,7 @@
 <?php
 
 
-namespace fw\pattern\CoR;
+namespace fw_micro\pattern\CoR;
 
 
 class ErrorParser

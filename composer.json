@@ -1,5 +1,5 @@
 {
-    "name": "fw-micro/pattern",
+    "name": "fw_micro/pattern",
     "license": "MIT",
     "require": {
         "php": "^7.1"
