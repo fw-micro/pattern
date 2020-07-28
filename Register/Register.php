@@ -2,6 +2,7 @@
 
 namespace fw_micro\pattern\Register;
 
+use fw_micro\interfaces\AuthInterface;
 use Medoo\Medoo;
 use Psr\Log\LoggerInterface;
 
@@ -16,6 +17,7 @@ use Psr\Log\LoggerInterface;
  * @property Medoo $db
  * @property array $config
  * @property LoggerInterface|null $logger;
+ * @property AuthInterface $auth
  */
 class Register
 {

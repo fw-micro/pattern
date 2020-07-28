@@ -2,7 +2,9 @@
     "name": "fw_micro/pattern",
     "license": "MIT",
     "require": {
-        "php": "^7.1"
+        "php": "^7.1",
+        "psr/log": "^1.1",
+        "fw_micro/interfaces": "^1.0.5"
     },
     "autoload": {
         "psr-4": {
